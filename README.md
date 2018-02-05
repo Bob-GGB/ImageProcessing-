@@ -1,5 +1,5 @@
 # PGG_OC_Image
-鹏哥哥OC版的图片处理 
+OC版的图片处理 
 # 效果演示GIF
 ![image](https://github.com/penghero/PGG_OC_Image/blob/master/gif/Untitle2.gif)
 # 部分讲解
@@ -115,7 +115,5 @@
 + (void)saveImageToPhotosAlbum:(UIImage*)image;
 ```
 
-# 联系
-896733185@qq.com 有任何疑问欢迎与我联系 我们共同进步
 # 感谢
 感谢GitHub大神优秀开源代码 愿我们共同进步 
